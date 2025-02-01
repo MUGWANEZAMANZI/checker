@@ -1,0 +1,96 @@
+Scan started at: +2025-02-01 12:49:55
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-01 12:49 EST
+Nmap done: 0 IP addresses (0 hosts up) scanned in 0.77 seconds
+Scan ended at 
+Scan started at: +2025-02-01 12:50:09
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-01 12:50 EST
+Nmap scan report for 172.16.50.100
+Host is up (0.00015s latency).
+Not shown: 65531 closed tcp ports (reset)
+PORT     STATE SERVICE     VERSION
+139/tcp  open  netbios-ssn Samba smbd 4.6.2
+445/tcp  open  netbios-ssn Samba smbd 4.6.2
+4444/tcp open  krb524?
+6666/tcp open  irc?
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port4444-TCP:V=7.94SVN%I=7%D=2/1%Time=679E5EE9%P=x86_64-pc-linux-gnu%r(
+SF:NULL,4,"F\xb0\x02\0")%r(GetRequest,4,"F\xb0\x02\0")%r(SSLSessionReq,4,"
+SF:F\xb0\x02\0")%r(TLSSessionReq,4,"F\xb0\x02\0")%r(SSLv23SessionReq,4,"F\
+SF:xb0\x02\0")%r(GenericLines,4,"F\xb0\x02\0")%r(HTTPOptions,4,"F\xb0\x02\
+SF:0")%r(RTSPRequest,4,"F\xb0\x02\0")%r(RPCCheck,4,"F\xb0\x02\0")%r(DNSVer
+SF:sionBindReqTCP,4,"F\xb0\x02\0")%r(DNSStatusRequestTCP,4,"F\xb0\x02\0")%
+SF:r(Help,4,"F\xb0\x02\0")%r(TerminalServerCookie,4,"F\xb0\x02\0")%r(Kerbe
+SF:ros,4,"F\xb0\x02\0")%r(SMBProgNeg,4,"F\xb0\x02\0")%r(X11Probe,4,"F\xb0\
+SF:x02\0")%r(FourOhFourRequest,4,"F\xb0\x02\0")%r(LPDString,4,"F\xb0\x02\0
+SF:")%r(LDAPSearchReq,4,"F\xb0\x02\0")%r(LDAPBindReq,4,"F\xb0\x02\0")%r(SI
+SF:POptions,4,"F\xb0\x02\0")%r(LANDesk-RC,4,"F\xb0\x02\0")%r(TerminalServe
+SF:r,4,"F\xb0\x02\0")%r(NCP,4,"F\xb0\x02\0")%r(NotesRPC,4,"F\xb0\x02\0")%r
+SF:(JavaRMI,4,"F\xb0\x02\0")%r(WMSRequest,4,"F\xb0\x02\0")%r(oracle-tns,4,
+SF:"F\xb0\x02\0")%r(ms-sql-s,4,"F\xb0\x02\0")%r(afp,4,"F\xb0\x02\0")%r(gio
+SF:p,4,"F\xb0\x02\0");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port6666-TCP:V=7.94SVN%I=7%D=2/1%Time=679E5EE9%P=x86_64-pc-linux-gnu%r(
+SF:NULL,4,"F\xb0\x02\0")%r(Help,4,"F\xb0\x02\0")%r(Socks5,4,"F\xb0\x02\0")
+SF:%r(Socks4,4,"F\xb0\x02\0")%r(beast2,4,"F\xb0\x02\0")%r(vp3,4,"F\xb0\x02
+SF:\0")%r(GenericLines,4,"F\xb0\x02\0")%r(GetRequest,4,"F\xb0\x02\0")%r(HT
+SF:TPOptions,4,"F\xb0\x02\0")%r(RTSPRequest,4,"F\xb0\x02\0")%r(RPCCheck,4,
+SF:"F\xb0\x02\0")%r(DNSVersionBindReqTCP,4,"F\xb0\x02\0")%r(DNSStatusReque
+SF:stTCP,4,"F\xb0\x02\0")%r(SSLSessionReq,4,"F\xb0\x02\0")%r(TerminalServe
+SF:rCookie,4,"F\xb0\x02\0")%r(TLSSessionReq,4,"F\xb0\x02\0")%r(Kerberos,4,
+SF:"F\xb0\x02\0")%r(SMBProgNeg,4,"F\xb0\x02\0")%r(X11Probe,4,"F\xb0\x02\0"
+SF:)%r(FourOhFourRequest,4,"F\xb0\x02\0")%r(LPDString,4,"F\xb0\x02\0")%r(L
+SF:DAPSearchReq,4,"F\xb0\x02\0")%r(LDAPBindReq,4,"F\xb0\x02\0")%r(SIPOptio
+SF:ns,4,"F\xb0\x02\0")%r(LANDesk-RC,4,"F\xb0\x02\0")%r(TerminalServer,4,"F
+SF:\xb0\x02\0")%r(NCP,4,"F\xb0\x02\0")%r(NotesRPC,4,"F\xb0\x02\0")%r(JavaR
+SF:MI,4,"F\xb0\x02\0")%r(WMSRequest,4,"F\xb0\x02\0")%r(oracle-tns,4,"F\xb0
+SF:\x02\0")%r(ms-sql-s,4,"F\xb0\x02\0")%r(afp,4,"F\xb0\x02\0")%r(giop,4,"F
+SF:\xb0\x02\0");
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/1%OT=139%CT=1%CU=30132%PV=Y%DS=0%DC=L%G=Y%TM=679E
+OS:5FA0%P=x86_64-pc-linux-gnu)SEQ(SP=106%GCD=1%ISR=10E%TI=Z%CI=Z%II=I%TS=A)
+OS:SEQ(SP=107%GCD=1%ISR=10E%TI=Z%CI=Z%II=I%TS=A)OPS(O1=MFFD7ST11NW7%O2=MFFD
+OS:7ST11NW7%O3=MFFD7NNT11NW7%O4=MFFD7ST11NW7%O5=MFFD7ST11NW7%O6=MFFD7ST11)W
+OS:IN(W1=8200%W2=8200%W3=8200%W4=8200%W5=8200%W6=8200)ECN(R=Y%DF=Y%T=40%W=8
+OS:200%O=MFFD7NNSNW7%CC=Y%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)
+OS:T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%
+OS:S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(
+OS:R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0
+OS:%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 0 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 205.49 seconds
+Scan ended at 
+Scan started at: +2025-02-01 12:56:48
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-01 12:57 EST
+Nmap done: 0 IP addresses (0 hosts up) scanned in 10.58 seconds
+Scan ended at 
+Scan started at: +2025-02-01 12:57:37
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-01 12:57 EST
+Scan started at: +2025-02-01 15:33:10
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-01 15:33 EST
+Nmap scan report for 172.16.50.100
+Host is up (0.00012s latency).
+All 65535 scanned ports on 172.16.50.100 are in ignored states.
+Not shown: 65535 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 18.47 seconds
+Scan ended at 
+Scan started at: 2025-02-01 15:52:33
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-01 15:52 EST
+Nmap scan report for 172.16.50.100
+Host is up (0.000068s latency).
+All 65535 scanned ports on 172.16.50.100 are in ignored states.
+Not shown: 65535 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 0 hops
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 18.39 seconds
+Scan ended at 
