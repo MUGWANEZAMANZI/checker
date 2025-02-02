@@ -94,3 +94,218 @@ Network Distance: 0 hops
 OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 18.39 seconds
 Scan ended at 
+Scan started at: 2025-02-02 08:54:31
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-02 08:54 EST
+Stats: 0:00:19 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 71.45% done; ETC: 08:55 (0:00:08 remaining)
+Stats: 0:00:21 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 74.50% done; ETC: 08:55 (0:00:07 remaining)
+Stats: 0:00:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 93.15% done; ETC: 08:55 (0:00:02 remaining)
+Stats: 0:00:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 95.84% done; ETC: 08:55 (0:00:01 remaining)
+Stats: 0:00:27 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 96.18% done; ETC: 08:55 (0:00:01 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 96.41% done; ETC: 08:55 (0:00:01 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 96.79% done; ETC: 08:55 (0:00:01 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 97.16% done; ETC: 08:55 (0:00:01 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 97.51% done; ETC: 08:55 (0:00:01 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 97.70% done; ETC: 08:55 (0:00:01 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 97.94% done; ETC: 08:55 (0:00:01 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 98.08% done; ETC: 08:55 (0:00:01 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 98.24% done; ETC: 08:55 (0:00:00 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 98.59% done; ETC: 08:55 (0:00:00 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 98.78% done; ETC: 08:55 (0:00:00 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 99.06% done; ETC: 08:55 (0:00:00 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 99.36% done; ETC: 08:55 (0:00:00 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (1 up), 1 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 99.74% done; ETC: 08:55 (0:00:00 remaining)
+Stats: 0:00:31 elapsed; 0 hosts completed (1 up), 1 undergoing Service Scan
+Service scan Timing: About 6.25% done; ETC: 08:55 (0:00:30 remaining)
+Nmap scan report for 172.16.50.20
+Host is up (0.0018s latency).
+Not shown: 65519 closed tcp ports (reset)
+PORT      STATE SERVICE       VERSION
+22/tcp    open  ssh           OpenSSH for_Windows_9.5 (protocol 2.0)
+135/tcp   open  msrpc         Microsoft Windows RPC
+139/tcp   open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds  Microsoft Windows 7 - 10 microsoft-ds (workgroup: MYDOMAIN)
+3389/tcp  open  ms-wbt-server Microsoft Terminal Services
+5040/tcp  open  unknown
+7680/tcp  open  pando-pub?
+49664/tcp open  msrpc         Microsoft Windows RPC
+49665/tcp open  msrpc         Microsoft Windows RPC
+49666/tcp open  msrpc         Microsoft Windows RPC
+49667/tcp open  msrpc         Microsoft Windows RPC
+49668/tcp open  msrpc         Microsoft Windows RPC
+49669/tcp open  msrpc         Microsoft Windows RPC
+49670/tcp open  msrpc         Microsoft Windows RPC
+49671/tcp open  msrpc         Microsoft Windows RPC
+49672/tcp open  msrpc         Microsoft Windows RPC
+MAC Address: 00:0C:29:E2:DB:9A (VMware)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.94SVN%E=4%D=2/2%OT=22%CT=1%CU=41822%PV=Y%DS=1%DC=D%G=Y%M=000C29
+OS:%TM=679F79A6%P=x86_64-pc-linux-gnu)SEQ(SP=F8%GCD=1%ISR=110%TI=I%CI=I%II=
+OS:I%SS=S%TS=U)OPS(O1=M5B4NW8NNS%O2=M5B4NW8NNS%O3=M5B4NW8%O4=M5B4NW8NNS%O5=
+OS:M5B4NW8NNS%O6=M5B4NNS)WIN(W1=FFFF%W2=FFFF%W3=FFFF%W4=FFFF%W5=FFFF%W6=FF7
+OS:0)ECN(R=Y%DF=Y%T=80%W=FFFF%O=M5B4NW8NNS%CC=N%Q=)T1(R=Y%DF=Y%T=80%S=O%A=S
+OS:+%F=AS%RD=0%Q=)T2(R=Y%DF=Y%T=80%W=0%S=Z%A=S%F=AR%O=%RD=0%Q=)T3(R=Y%DF=Y%
+OS:T=80%W=0%S=Z%A=O%F=AR%O=%RD=0%Q=)T4(R=Y%DF=Y%T=80%W=0%S=A%A=O%F=R%O=%RD=
+OS:0%Q=)T5(R=Y%DF=Y%T=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=80%W=0%
+OS:S=A%A=O%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=80%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U1(
+OS:R=Y%DF=N%T=80%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=
+OS:N%T=80%CD=Z)
+
+Network Distance: 1 hop
+Service Info: Host: DESKTOP-CH7ET1D; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 129.51 seconds
+Scan ended at 
+Scan started at: 2025-02-02 09:00:10
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-02 09:00 EST
+Nmap scan report for 172.16.50.20
+Host is up (0.0019s latency).
+Not shown: 65519 closed tcp ports (reset)
+PORT      STATE SERVICE       VERSION
+22/tcp    open  ssh           OpenSSH for_Windows_9.5 (protocol 2.0)
+135/tcp   open  msrpc         Microsoft Windows RPC
+139/tcp   open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds  Microsoft Windows 7 - 10 microsoft-ds (workgroup: MYDOMAIN)
+3389/tcp  open  ms-wbt-server Microsoft Terminal Services
+5040/tcp  open  unknown
+7680/tcp  open  pando-pub?
+49664/tcp open  msrpc         Microsoft Windows RPC
+49665/tcp open  msrpc         Microsoft Windows RPC
+49666/tcp open  msrpc         Microsoft Windows RPC
+49667/tcp open  msrpc         Microsoft Windows RPC
+49668/tcp open  msrpc         Microsoft Windows RPC
+49669/tcp open  msrpc         Microsoft Windows RPC
+49670/tcp open  msrpc         Microsoft Windows RPC
+49671/tcp open  msrpc         Microsoft Windows RPC
+49672/tcp open  msrpc         Microsoft Windows RPC
+MAC Address: 00:0C:29:E2:DB:9A (VMware)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 1909
+Network Distance: 1 hop
+Service Info: Host: DESKTOP-CH7ET1D; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 125.15 seconds
+Scan ended at 
+Scan started at: 2025-02-02 09:15:57
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-02 09:16 EST
+Nmap scan report for 172.16.50.20
+Host is up (0.0021s latency).
+Not shown: 65519 closed tcp ports (reset)
+PORT      STATE SERVICE       VERSION
+22/tcp    open  ssh           OpenSSH for_Windows_9.5 (protocol 2.0)
+135/tcp   open  msrpc         Microsoft Windows RPC
+139/tcp   open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds  Microsoft Windows 7 - 10 microsoft-ds (workgroup: MYDOMAIN)
+3389/tcp  open  ms-wbt-server Microsoft Terminal Services
+5040/tcp  open  unknown
+7680/tcp  open  pando-pub?
+49664/tcp open  msrpc         Microsoft Windows RPC
+49665/tcp open  msrpc         Microsoft Windows RPC
+49666/tcp open  msrpc         Microsoft Windows RPC
+49667/tcp open  msrpc         Microsoft Windows RPC
+49668/tcp open  msrpc         Microsoft Windows RPC
+49669/tcp open  msrpc         Microsoft Windows RPC
+49670/tcp open  msrpc         Microsoft Windows RPC
+49671/tcp open  msrpc         Microsoft Windows RPC
+49672/tcp open  msrpc         Microsoft Windows RPC
+MAC Address: 00:0C:29:E2:DB:9A (VMware)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 1909
+Network Distance: 1 hop
+Service Info: Host: DESKTOP-CH7ET1D; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 116.85 seconds
+Scan ended at 
+Scan started at: 2025-02-02 09:32:10
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-02 09:32 EST
+Nmap scan report for 172.16.50.20
+Host is up (0.0025s latency).
+Not shown: 65519 closed tcp ports (reset)
+PORT      STATE SERVICE       VERSION
+22/tcp    open  ssh           OpenSSH for_Windows_9.5 (protocol 2.0)
+135/tcp   open  msrpc         Microsoft Windows RPC
+139/tcp   open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds  Microsoft Windows 7 - 10 microsoft-ds (workgroup: MYDOMAIN)
+3389/tcp  open  ms-wbt-server Microsoft Terminal Services
+5040/tcp  open  unknown
+7680/tcp  open  pando-pub?
+49664/tcp open  msrpc         Microsoft Windows RPC
+49665/tcp open  msrpc         Microsoft Windows RPC
+49666/tcp open  msrpc         Microsoft Windows RPC
+49667/tcp open  msrpc         Microsoft Windows RPC
+49668/tcp open  msrpc         Microsoft Windows RPC
+49669/tcp open  msrpc         Microsoft Windows RPC
+49670/tcp open  msrpc         Microsoft Windows RPC
+49671/tcp open  msrpc         Microsoft Windows RPC
+49672/tcp open  msrpc         Microsoft Windows RPC
+MAC Address: 00:0C:29:E2:DB:9A (VMware)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 1909
+Network Distance: 1 hop
+Service Info: Host: DESKTOP-CH7ET1D; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 124.88 seconds
+Scan ended at 
+Scan started at: 2025-02-02 10:52:44
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2025-02-02 10:53 EST
+Stats: 0:00:01 elapsed; 0 hosts completed (0 up), 1 undergoing ARP Ping Scan
+ARP Ping Scan Timing: About 100.00% done; ETC: 10:53 (0:00:00 remaining)
+Nmap scan report for 172.16.50.20
+Host is up (0.0019s latency).
+Not shown: 65519 closed tcp ports (reset)
+PORT      STATE SERVICE       VERSION
+22/tcp    open  ssh           OpenSSH for_Windows_9.5 (protocol 2.0)
+135/tcp   open  msrpc         Microsoft Windows RPC
+139/tcp   open  netbios-ssn   Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds  Microsoft Windows 7 - 10 microsoft-ds (workgroup: MYDOMAIN)
+3389/tcp  open  ms-wbt-server Microsoft Terminal Services
+5040/tcp  open  unknown
+7680/tcp  open  pando-pub?
+49664/tcp open  msrpc         Microsoft Windows RPC
+49665/tcp open  msrpc         Microsoft Windows RPC
+49666/tcp open  msrpc         Microsoft Windows RPC
+49667/tcp open  msrpc         Microsoft Windows RPC
+49668/tcp open  msrpc         Microsoft Windows RPC
+49669/tcp open  msrpc         Microsoft Windows RPC
+49670/tcp open  msrpc         Microsoft Windows RPC
+49671/tcp open  msrpc         Microsoft Windows RPC
+49672/tcp open  msrpc         Microsoft Windows RPC
+MAC Address: 00:0C:29:E2:DB:9A (VMware)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1709 - 1909
+Network Distance: 1 hop
+Service Info: Host: DESKTOP-CH7ET1D; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 115.33 seconds
+Scan ended at 

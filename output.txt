@@ -1,3 +1,6 @@
                                    
-Discovered open port 443/tcp on 212.166.198.129                                
-Discovered open port 443/tcp on 185.75.196.8                                   
+                                 
+Discovered open port 443/tcp on 23.47.31.139                                   
+Discovered open port 443/tcp on 35.205.85.141                                  
+Discovered open port 443/tcp on 185.221.175.180                                
+Discovered open port 22/tcp on 34.70.183.211                                   

@@ -1,0 +1,85 @@
+DATE, MESSAGE by HOSTNAME, IP ADDRESS format
+
+Sun Feb  2 08:14:27 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 08:14:29 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 08:15:06 EST 2025, Automated attack by root, with IP address 172.16.50.100
+Sun Feb  2 08:15:55 EST 2025, Payload created and distributed using a pyhton server by root, with IP address 172.16.50.100
+Sun Feb  2 08:16:18 EST 2025, Metasploit attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 08:25:28 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 08:25:29 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 08:25:37 EST 2025, Automated attack by root, with IP address 172.16.50.100
+Sun Feb  2 08:25:56 EST 2025, Payload created and distributed on email by root, with IP address 172.16.50.100
+Sun Feb  2 08:38:30 EST 2025, Metasploit attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 08:52:16 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 08:52:19 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 08:53:22 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 08:53:25 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 08:54:04 EST 2025, Random names were created by root, with IP address 172.16.50.100
+Sun Feb  2 08:54:20 EST 2025, Passwords were created based on usernames by root, with IP address 172.16.50.100
+Sun Feb  2 08:54:31 EST 2025, Simulation attcak by root, with IP address 172.16.50.100
+Sun Feb  2 08:59:01 EST 2025, SSH Bruteforce attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 08:59:38 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 08:59:39 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 08:59:45 EST 2025, Random names were created by root, with IP address 172.16.50.100
+Sun Feb  2 09:00:04 EST 2025, Passwords were created based on usernames by root, with IP address 172.16.50.100
+Sun Feb  2 09:00:10 EST 2025, Simulation attcak by root, with IP address 172.16.50.100
+Sun Feb  2 09:15:23 EST 2025, SSH Bruteforce attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 09:15:28 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 09:15:29 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 09:15:33 EST 2025, Random names were created by root, with IP address 172.16.50.100
+Sun Feb  2 09:15:50 EST 2025, Passwords were created based on usernames by root, with IP address 172.16.50.100
+Sun Feb  2 09:15:57 EST 2025, Simulation attcak by root, with IP address 172.16.50.100
+Sun Feb  2 09:21:08 EST 2025, SSH Bruteforce attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 09:21:11 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 09:21:13 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 09:21:17 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 09:21:30 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 09:22:21 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 09:22:23 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 09:22:25 EST 2025, Random names were created by root, with IP address 172.16.50.100
+Sun Feb  2 09:22:43 EST 2025, Passwords were created based on usernames by root, with IP address 172.16.50.100
+Sun Feb  2 09:22:47 EST 2025, Simulation attcak by root, with IP address 172.16.50.100
+Sun Feb  2 09:23:25 EST 2025, SSH Bruteforce attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 09:29:02 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 09:29:10 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 09:29:22 EST 2025, Random names were created by root, with IP address 172.16.50.100
+Sun Feb  2 09:29:41 EST 2025, Passwords were created based on usernames by root, with IP address 172.16.50.100
+Sun Feb  2 09:29:48 EST 2025, Simulation attcak by root, with IP address 172.16.50.100
+Sun Feb  2 09:31:36 EST 2025, SSH Bruteforce attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 09:31:39 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 09:31:41 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 09:31:47 EST 2025, Random names were created by root, with IP address 172.16.50.100
+Sun Feb  2 09:32:05 EST 2025, Passwords were created based on usernames by root, with IP address 172.16.50.100
+Sun Feb  2 09:32:10 EST 2025, Simulation attcak by root, with IP address 172.16.50.100
+Sun Feb  2 09:34:46 EST 2025, SSH Bruteforce attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 09:38:01 EST 2025, Attack SSH service on:  by root, with IP address 172.16.50.100
+Sun Feb  2 09:39:13 EST 2025, Attack SMB service on:  by root, with IP address 172.16.50.100
+Sun Feb  2 10:02:57 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 10:02:59 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 10:03:05 EST 2025, Random names were created by root, with IP address 172.16.50.100
+Sun Feb  2 10:03:21 EST 2025, Passwords were created based on usernames by root, with IP address 172.16.50.100
+Sun Feb  2 10:03:30 EST 2025, Deadly attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 10:03:33 EST 2025, User choosed dangerous attack on the internet by root, with IP address 172.16.50.100
+Sun Feb  2 10:03:34 EST 2025, Scan is complete all discovered Ip/Port keept in output.txt by root, with IP address 172.16.50.100
+Sun Feb  2 10:04:19 EST 2025, SMB brutefirce attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 10:04:29 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 10:04:30 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 10:04:37 EST 2025, Random names were created by root, with IP address 172.16.50.100
+Sun Feb  2 10:04:56 EST 2025, Passwords were created based on usernames by root, with IP address 172.16.50.100
+Sun Feb  2 10:05:00 EST 2025, Deadly attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 10:05:04 EST 2025, User choosed dangerous attack on the internet by root, with IP address 172.16.50.100
+Sun Feb  2 10:05:04 EST 2025, Scan is complete all discovered Ip/Port keept in output.txt by root, with IP address 172.16.50.100
+Sun Feb  2 10:05:21 EST 2025, SSH Bruteforce attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 10:42:41 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 10:42:43 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 10:42:49 EST 2025, Random names were created by root, with IP address 172.16.50.100
+Sun Feb  2 10:43:06 EST 2025, Passwords were created based on usernames by root, with IP address 172.16.50.100
+Sun Feb  2 10:43:12 EST 2025, Deadly attack was choosen by root, with IP address 172.16.50.100
+Sun Feb  2 10:52:09 EST 2025, Gisamagwe Msillies Startted by root, with IP address 172.16.50.100
+Sun Feb  2 10:52:10 EST 2025, Downloaded readm file by root, with IP address 172.16.50.100
+Sun Feb  2 10:52:20 EST 2025, Random names were created by root, with IP address 172.16.50.100
+Sun Feb  2 10:52:37 EST 2025, Passwords were created based on usernames by root, with IP address 172.16.50.100
+Sun Feb  2 10:52:44 EST 2025, Simulation attcak by root, with IP address 172.16.50.100
+Sun Feb  2 18:21:11 SAST 2025, Gisamagwe Msillies Startted by USER 1, with IP address 
+Sun Feb  2 18:21:11 SAST 2025, Downloaded readm file by USER 1, with IP address 
+Sun Feb  2 18:21:16 SAST 2025, Automated attack by USER 1, with IP address 
